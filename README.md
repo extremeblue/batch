@@ -1,8 +1,8 @@
 # batch
 Windows management batch script
 
-### to.bath
+### to.bat
 to.bat is a script that change directory with the name of work directory.
 
-    to.bat 202010805
+    to c:\work\202010805
     
